@@ -5,7 +5,7 @@ No método principal, crie uma lista de IMeioTransporte, percorra e invoque
 acelerar()/frear() demonstrando polimorfismo. Trate operações inválidas com
 exceções apropriadas.*/
 
-package exercicio04;
+package meioTransporte;
 
 import java.util.ArrayList;
 import java.util.List;

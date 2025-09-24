@@ -1,4 +1,4 @@
-package exercicio04;
+package meioTransporte;
 
 public abstract class MeioTransporteBase implements IMeioTransporte {
     protected int velocidade;

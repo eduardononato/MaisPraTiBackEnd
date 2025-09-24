@@ -1,4 +1,4 @@
-package exercicio03;
+package funcionario;
 
 import java.math.BigDecimal;
 

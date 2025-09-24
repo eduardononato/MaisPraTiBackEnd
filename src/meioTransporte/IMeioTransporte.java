@@ -1,4 +1,4 @@
-package exercicio04;
+package meioTransporte;
 
 public interface IMeioTransporte {
     void acelerar();

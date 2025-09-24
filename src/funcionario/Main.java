@@ -8,7 +8,7 @@ diferentes funcionários em uma coleção do tipo List<Funcionario> e exiba o b�
 de cada um.
 */
 
-package exercicio03;
+package funcionario;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

@@ -7,7 +7,7 @@ vazio. Lance IllegalArgumentException em casos inválidos. Demonstre o uso
         criando instâncias, alterando valores válidos e tentando atribuições inválidas.
 */
 
-package exercicio01e02;
+package produto;
 
 public class Produto {
     private String nome;
